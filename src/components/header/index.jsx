@@ -10,9 +10,9 @@ const Header = () => {
       <BackgroundFade />
       <Background src={backgroundLink} />
       <Content>
-        <span>Bem vindo 👋, Eu sou</span>
-        <h1>Johan Henrique</h1>
-        <span className="up">Designer + Developer</span>
+        <span>Bem vindo 👋, I' am</span>
+        <h1>Jhonson Marlon</h1>
+        <span className="up">Analist and Developer</span>
       </Content>
     </Container>
   );
