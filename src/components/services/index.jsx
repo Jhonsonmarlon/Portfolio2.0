@@ -12,10 +12,11 @@ const Services = () => {
       <Content>
         <Card>
           <RiPenNibFill size={"100px"} />
-          <h2>UI Design</h2>
+          <h2>Analista de Dados</h2>
           <p>
-            Desenho interface de forma que ela seja clara, objetiva e
-            principalmente intuitiva para o usuário.
+            Desenvolvo fórmulas ou alternativas demonstrativas para,
+            representação de dados e estatísticas, fazendo avaliação
+            de projetos.
           </p>
         </Card>
         <Card>
@@ -31,7 +32,7 @@ const Services = () => {
           <h2>Backend</h2>
           <p>
             Desenvolvo toda parte do lado do servidor, com banco de dados e
-            criação de Apis para alimentar a aplicação web
+            criação de Apis para alimentar a aplicação web.
           </p>
         </Card>
       </Content>

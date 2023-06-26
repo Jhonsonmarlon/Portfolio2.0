@@ -19,26 +19,26 @@ import {
 
 const Contact = () => {
   const handleEmail = () => {
-    window.open("mailto:sjohanhenriqu18@gmail.com", "_blank");
+    window.open("mailto:j.marlon.developer@gmail.com", "_blank");
   };
 
   const handleGithub = () => {
-    window.open("https://github.com/HenriqueDev06", "_blank");
+    window.open("https://github.com/Jhonsonmarlon", "_blank");
   };
 
   const handleInstagram = () => {
-    window.open("https://www.instagram.com/heenriiqu3_", "_blank");
+    window.open("https://www.instagram.com/Jhonson_marlon", "_blank");
   };
 
   const handleDiscord = () => {
-    const discordUsername = "Henrique_#8053";
+    const discordUsername = "Cyb3JJ";
 
     navigator.clipboard.writeText(discordUsername);
     alert("Usuario do discord copiado para area de transferencia!");
   };
 
   const handleWhatsApp = () => {
-    const phoneNumber = "5511969351638";
+    const phoneNumber = "5595981049469";
     window.open(`https://wa.me/${phoneNumber}`, "_blank");
   };
 
@@ -48,12 +48,12 @@ const Contact = () => {
       <h1>Contato</h1>
       <p>
         Gostou? Conte-me sobre suas oportunidades de trabalho disponíveis ou
-        apenas diga oi 😃
+        apenas diga Olá! 😃
       </p>
       <Content>
         <Localize>
           <RiMapPin2Line size={"27px"} />
-          <p>São Paulo - Brasil</p>
+          <p>Roraima - Brasil</p>
         </Localize>
         <LinksContainer>
           <Links onClick={handleEmail}>

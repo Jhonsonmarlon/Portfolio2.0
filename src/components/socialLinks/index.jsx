@@ -31,15 +31,15 @@ const SocialLinks = () => {
   }, [scrollPosition]);
 
   const openLinkedIn = () => {
-    window.open("https://www.linkedin.com/in/johan-henrique", "_blank");
+    window.open("https://www.linkedin.com/in/jhonson-marlon", "_blank");
   };
 
   const openGitHub = () => {
-    window.open("https://github.com/HenriqueDev06", "_blank");
+    window.open("https://github.com/Jhonsonmarlon", "_blank");
   };
 
   const openInstagram = () => {
-    window.open("https://www.instagram.com/heenriiqu3_/", "_blank");
+    window.open("https://www.instagram.com/Jhonson_marlon/", "_blank");
   };
 
   return (

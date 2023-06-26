@@ -2,10 +2,10 @@ export const projects = [
   {
     title: "The Dragon Store",
     description:
-      "Uma loja focado em produtos para quem quer virar um digital influencer ou produtor profissional",
+      "Um site de gerenciamento de eventos do instituto federal de roraima - (trabalho disc. DB1)",
     image:
       "https://res.cloudinary.com/dmceve2cp/image/upload/v1685929690/ecomerce/Screenshot_1_t1rcmz.png",
-    link: "https://dragon-ecommerce-rouge.vercel.app",
+    link: "https://database-ifrr.jhonsonmarlon.com.br/",
     subtitle: "React, Typescript, Styled",
   },
   {
