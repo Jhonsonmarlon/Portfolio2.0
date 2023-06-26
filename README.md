@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+<!-- Título do Projeto -->
+# :computer: [Jhonson Marlon] - Portfólio Pessoal :rocket:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- Descrição do Projeto -->
+Projeto de portfólio pessoal para mostrar minhas habilidades, projetos e conquistas.
 
-## Available Scripts
+<!-- Badges (opcional) -->
+[![Badge](https://img.shields.io/badge/-CyberSquad-blueviolet?style=flat-square&logo=hackerone&logoColor=white&link=https://www.hackerone.com/)](https://www.hackerone.com/)
+[![Badge](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)](#)
+[![Badge](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)](#)
+[![Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)](#)
+[![Badge](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)](#)
+[![Badge](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)](#)
+[![Badge](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)](#)
 
-In the project directory, you can run:
+<!-- Tabela de Conteúdos -->
+## :scroll: Conteúdo
 
-### `npm start`
+- [Sobre](#sobre)
+- [Tecnologias](#tecnologias)
+- [Projetos](#projetos)
+- [Habilidades](#habilidades)
+- [Contato](#contato)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- Sobre -->
+## :ledger: Sobre
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Sou um entusiasta de hacking ético e apaixonado por segurança cibernética. Meu objetivo é utilizar minhas habilidades em programação e conhecimentos em hacking ético para fortalecer a segurança das aplicações e sistemas. Estou constantemente aprendendo e explorando novas técnicas e metodologias para melhorar minhas habilidades e contribuir para um ambiente digital mais seguro.
 
-### `npm test`
+<!-- Tecnologias -->
+## :wrench: Tecnologias
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Estou familiarizado e tenho experiência com as seguintes tecnologias:
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Linguagens: HTML, CSS, JavaScript, Java, PHP, Python
+- Frameworks: Flask, React.js
+- Ferramentas: Git, Docker
+- Bancos de Dados: MySQL, MongoDB
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- Projetos -->
+## :hammer_and_wrench: Projetos
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Aqui estão alguns dos projetos em que trabalhei:
 
-### `npm run eject`
+1. [Projeto 1](link_projeto_1) - Breve descrição do projeto.
+2. [Projeto 2](link_projeto_2) - Breve descrição do projeto.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- Habilidades -->
+## :dart: Habilidades
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Minhas principais habilidades incluem:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Desenvolvimento e Administração em modelagem de sites;
+- Organização e gerenciamento de Banco de dados;
