@@ -32,7 +32,7 @@ export const projects = [
       "Plataforma de apostas criada alusivamente para a copaMUNDI",
     image:
       "https://jhonsonmarlon.com.br/assets/imgs/img-works1.svg",
-    link: "https://jhonsonmarlon.github.io/PageLogin_IEL-RR/",
+    link: "https://github.com/Jhonsonmarlon/CursoWEBcompleto-natrave",
     subtitle: "HTML, Javascript, CSS",
   },
 ];

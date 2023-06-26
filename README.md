@@ -25,7 +25,7 @@ Projeto de portfólio pessoal para mostrar minhas habilidades, projetos e conqui
 <!-- Sobre -->
 ## :ledger: Sobre
 
-Sou um entusiasta de hacking ético e apaixonado por segurança cibernética. Meu objetivo é utilizar minhas habilidades em programação e conhecimentos em hacking ético para fortalecer a segurança das aplicações e sistemas. Estou constantemente aprendendo e explorando novas técnicas e metodologias para melhorar minhas habilidades e contribuir para um ambiente digital mais seguro.
+Sou um entusiasta de hacking ético e apaixonado por Analise de Dados. Meu objetivo é utilizar minhas habilidades em programação e conhecimentos em hacking ético para fortalecer a segurança das aplicações e sistemas. Estou constantemente aprendendo e explorando novas técnicas e metodologias para melhorar minhas habilidades e contribuir para um ambiente digital mais seguro.
 
 <!-- Tecnologias -->
 ## :wrench: Tecnologias
@@ -34,17 +34,9 @@ Estou familiarizado e tenho experiência com as seguintes tecnologias:
 
 
 - Linguagens: HTML, CSS, JavaScript, Java, PHP, Python
-- Frameworks: Flask, React.js
-- Ferramentas: Git, Docker
-- Bancos de Dados: MySQL, MongoDB
-
-<!-- Projetos -->
-## :hammer_and_wrench: Projetos
-
-Aqui estão alguns dos projetos em que trabalhei:
-
-1. [Projeto 1](link_projeto_1) - Breve descrição do projeto.
-2. [Projeto 2](link_projeto_2) - Breve descrição do projeto.
+- Frameworks: React.js
+- Ferramentas: Git
+- Bancos de Dados: MySQL, Postgres
 
 <!-- Habilidades -->
 ## :dart: Habilidades
