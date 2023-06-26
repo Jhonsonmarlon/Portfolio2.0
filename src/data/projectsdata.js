@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Gerenciamento de eventos IFRR",
+    title: "Eventos IFRR",
     description:
       "Um site de gerenciamento de eventos do instituto federal de roraima - (trabalho disc. DB1)",
     image:
@@ -18,9 +18,9 @@ export const projects = [
     subtitle: "React, JS, HTML",
   },
   {
-    title: "All Games List",
+    title: "PageLogin IEL",
     description:
-      "Crie uma list com seus jogos favoritos, de qualquer plataforma!",
+      "Desenvolvimento de uma pagina de login para o IEL",
     image:
       "src/components/projects/imgg.jpg",
     link: "https://jhonsonmarlon.github.io/PageLogin_IEL-RR/",
