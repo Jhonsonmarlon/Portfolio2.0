@@ -31,7 +31,7 @@ export const projects = [
     description:
       "Plataforma de apostas criada alusivamente para a copaMUNDI",
     image:
-      "https://jhonsonmarlon.com.br/assets/imgs/img-works1.png",
+      "https://jhonsonmarlon.com.br/assets/imgs/img-works1.svg",
     link: "https://jhonsonmarlon.github.io/PageLogin_IEL-RR/",
     subtitle: "HTML, Javascript, CSS",
   },
