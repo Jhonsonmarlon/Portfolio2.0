@@ -1,29 +1,29 @@
 export const projects = [
   {
-    title: "The Dragon Store",
+    title: "Gerenciamento de eventos IFRR",
     description:
       "Um site de gerenciamento de eventos do instituto federal de roraima - (trabalho disc. DB1)",
     image:
-      "https://res.cloudinary.com/dmceve2cp/image/upload/v1685929690/ecomerce/Screenshot_1_t1rcmz.png",
+      "src/components/projects/imgggg.jpg",
     link: "https://database-ifrr.jhonsonmarlon.com.br/",
-    subtitle: "React, Typescript, Styled",
+    subtitle: "HTML, PHP, CSS",
   },
   {
-    title: "The Memory Game",
+    title: "Jogos Copa MUNDI 2022",
     description:
-      "Um Jogo da memoria com 6 temas para se divertir e testar sua memoria visual!",
+      "Um site para administração dos jogos da copa do mundo 2022",
     image:
-      "https://res.cloudinary.com/dmceve2cp/image/upload/v1685978899/ecomerce/Screenshot_4_j6lc7u.png",
-    link: "https://memory-game-gjip9xpjg-henriquedev06.vercel.app",
-    subtitle: "React, Typescript, HowlerJs",
+      "https://github.com/Jhonsonmarlon/CALENDARIO_DE_JOGOS-COPA2022/raw/main/assets/github/capa_ofc.jpg",
+    link: "https://jhonsonmarlon.github.io/CALENDARIO_DE_JOGOS-COPA2022/",
+    subtitle: "React, JS, HTML",
   },
   {
     title: "All Games List",
     description:
       "Crie uma list com seus jogos favoritos, de qualquer plataforma!",
     image:
-      "https://res.cloudinary.com/dmceve2cp/image/upload/v1685978898/ecomerce/Screenshot_3_wwu47i.png",
-    link: "https://mygamelist-xi.vercel.app/home",
-    subtitle: "React, Javascript, IGDB Api",
+      "src/components/projects/imgg.jpg",
+    link: "https://jhonsonmarlon.github.io/PageLogin_IEL-RR/",
+    subtitle: "HTML, Javascript, CSS",
   },
 ];
