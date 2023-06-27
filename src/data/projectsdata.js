@@ -4,7 +4,7 @@ export const projects = [
     description:
       "Um site de gerenciamento de eventos do instituto federal de roraima - (trabalho disc. DB1)",
     image:
-      "https://github.com/Jhonsonmarlon/Portfolio2.0/raw/main/assetsgeral/proj22(1).jpg",
+      "https://github.com/Jhonsonmarlon/Portfolio2.0/raw/main/assetsgeral/proj22.jpg",
     link: "https://database-ifrr.jhonsonmarlon.com.br/",
     subtitle: "HTML, PHP, CSS",
   },
@@ -22,7 +22,7 @@ export const projects = [
     description:
       "Desenvolvimento de uma pagina de login para o IEL",
     image:
-      "https://github.com/Jhonsonmarlon/Portfolio2.0/raw/main/assetsgeral/proj11(1).jpg",
+      "https://github.com/Jhonsonmarlon/Portfolio2.0/raw/main/assetsgeral/proj11.jpg",
     link: "https://jhonsonmarlon.github.io/PageLogin_IEL-RR/",
     subtitle: "HTML, Javascript, CSS",
   },
