@@ -8,7 +8,7 @@ export const Container = styled.div`
   justify-content: center;
   align-items: center;
 
-  background: url("https://merida.anahuac.mx/hs-fs/hubfs/apreu/Blog/2019%20Blog%20APREU/APREU%20Blog%20-%20Abril%2019/dribbble-shot_6.gif?width=1600&name=dribbble-shot_6.gif");
+  background: url("https://www.elindependiente.com/wp-content/uploads/2017/07/blockchain-g.gif");
 
   flex-direction: column;
 
