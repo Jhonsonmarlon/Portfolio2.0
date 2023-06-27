@@ -4,7 +4,7 @@ export const projects = [
     description:
       "Um site de gerenciamento de eventos do instituto federal de roraima - (trabalho disc. DB1)",
     image:
-      "./proj22(1).jpg",
+      "https://github.com/Jhonsonmarlon/Portfolio2.0/raw/main/assetsgeral/proj22(1).jpg",
     link: "https://database-ifrr.jhonsonmarlon.com.br/",
     subtitle: "HTML, PHP, CSS",
   },
@@ -22,7 +22,7 @@ export const projects = [
     description:
       "Desenvolvimento de uma pagina de login para o IEL",
     image:
-      "./proj11(1).jpg",
+      "https://github.com/Jhonsonmarlon/Portfolio2.0/raw/main/assetsgeral/proj11(1).jpg",
     link: "https://jhonsonmarlon.github.io/PageLogin_IEL-RR/",
     subtitle: "HTML, Javascript, CSS",
   },
@@ -31,7 +31,7 @@ export const projects = [
     description:
       "Plataforma de apostas criada alusivamente para a copaMUNDI",
     image:
-      "https://jhonsonmarlon.com.br/assets/imgs/img-works1.svg",
+      "https://github.com/Jhonsonmarlon/Portfolio2.0/raw/main/assetsgeral/img-works1.svg",
     link: "https://github.com/Jhonsonmarlon/CursoWEBcompleto-natrave",
     subtitle: "HTML, Javascript, CSS",
   },
