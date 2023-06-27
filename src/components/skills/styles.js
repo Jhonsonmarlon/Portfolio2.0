@@ -8,7 +8,7 @@ export const Container = styled.div`
   justify-content: center;
   align-items: center;
 
-  background: url("https://cdnb.artstation.com/p/assets/images/images/049/195/939/large/elise-lunenburg-rpg-skill-icons.jpg?1651912239")
+  background: url("https://kenzie.com.br/blog/wp-content/uploads/2021/03/kenzie_blog_linguagem_de_programacao-820x431.jpg")
     no-repeat center;
   background-size: cover;
 

@@ -12,7 +12,7 @@ export const Container = styled.div`
 
   flex-direction: column;
 
-  background: url("https://i.pinimg.com/originals/f5/81/ed/f581ed2cb2711454b0b62acf93004c6e.png");
+  background: url("https://energiainteligenteufjf.com.br/wp-content/uploads/2021/05/algBlog.jpg");
 
   h1 {
     z-index: 11;

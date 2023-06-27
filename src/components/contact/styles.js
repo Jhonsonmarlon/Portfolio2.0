@@ -8,7 +8,7 @@ export const Container = styled.div`
   justify-content: center;
   align-items: center;
 
-  background: url("https://orig00.deviantart.net/f5e8/f/2019/046/7/9/brasil_gif_final_by_danc3r10-dcztqsc.gif");
+  background: url("https://images2.minutemediacdn.com/image/upload/c_fit,f_auto,fl_lossy,q_auto,w_728/v1555917533/shape/mentalfloss/ofthu7e.gif");
 
   flex-direction: column;
 
