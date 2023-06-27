@@ -31,7 +31,7 @@ export const projects = [
     description:
       "Plataforma de apostas criada alusivamente para a copaMUNDI",
     image:
-      "https://jhonsonmarlon.com.br/public_html/assets/imgs/img-works1.svg",
+      "https://jhonsonmarlon.com.br/assets/imgs/img-works1.svg",
     link: "https://github.com/Jhonsonmarlon/CursoWEBcompleto-natrave",
     subtitle: "HTML, Javascript, CSS",
   },
