@@ -8,7 +8,7 @@ export const Container = styled.div`
   justify-content: center;
   align-items: center;
 
-  background: url("https://kenzie.com.br/blog/wp-content/uploads/2021/03/kenzie_blog_linguagem_de_programacao-820x431.jpg")
+  background: url("https://energiainteligenteufjf.com.br/wp-content/uploads/2021/05/algBlog.jpg")
     no-repeat center;
   background-size: cover;
 

@@ -12,7 +12,7 @@ export const Container = styled.div`
 
   flex-direction: column;
 
-  background: url("https://energiainteligenteufjf.com.br/wp-content/uploads/2021/05/algBlog.jpg");
+  background: url("https://www.tricurioso.com/wp-content/uploads/2018/12/por-que-existem-tantas-linguagens-de-programacao-1.jpg");
 
   h1 {
     z-index: 11;
