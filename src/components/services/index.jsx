@@ -21,9 +21,9 @@ const Services = () => {
         </Card>
         <Card>
           <BiCodeBlock size={"100px"} />
-          <h2>Desenvolvimento</h2>
+          <h2>Front-End</h2>
           <p>
-            Desenvolvo sites profissionais, blogs, Api's, portfólios,
+            Desenvolvo sites profissionais, blogs, portfólios,
             aplicativos, landing pages e e-commerce.
           </p>
         </Card>

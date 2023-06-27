@@ -28,7 +28,6 @@ const Skills = () => {
           <DiCss3Full size={"90px"} />
           <DiJavascript1 size={"90px"} />
           <DiReact size={"90px"} />
-          <DiMaterializecss size={"90px"} />
         </SkillList>
         <SkillList>
           <DiMysql size={"90px"} />
