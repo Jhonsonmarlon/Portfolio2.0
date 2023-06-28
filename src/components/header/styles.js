@@ -30,6 +30,7 @@ export const Content = styled.div`
   a {
     border: 1px solid #97cadb;
     padding: 13px;
+    margin-top: 10px;
     border-radius: 5px;
     color: #ffffff;
     text-decoration: none;
