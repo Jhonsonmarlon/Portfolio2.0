@@ -13,16 +13,7 @@ const Header = () => {
         <span>Bem vindo 👋, Eu sou</span>
         <h1>Jhonson Marlon</h1>
         <span className="up">Analist and Developer</span>
-        <a style=
-          "
-          border: 1px solid #97cadb;
-          padding: 13px;
-          border-radius: 5px;
-          color: #ffffff;
-          text-decoration: none;
-          font-weight: bold;
-          "
-          href="www.jhonsonmarlon.com.br/portfolio/assets/docs_avulsos/Curriculo_Jhonson_Marlon.pdf" target="_blank">Download CV</a>
+        <a href="www.jhonsonmarlon.com.br/portfolio/assets/docs_avulsos/Curriculo_Jhonson_Marlon.pdf" target="_blank">Download CV</a>
       </Content>
     </Container>
   );
