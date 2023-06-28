@@ -50,8 +50,8 @@ Minhas principais habilidades incluem:
 <!-- Tabela de Projetoss -->
 ## :scroll: Projetos
 
-![proj1 ](assetsgeral/proj22(1).jpg)
-![proj2 ](assetsgeral/proj11(1).jpg)
+![proj1 ](assetsgeral/proj22.jpg)
+![proj2 ](assetsgeral/proj11.jpg)
 ![proj3 ](assetsgeral/img-works1.svg)
-![proj4 ](assetsgeral/trono.svg)
-![proj5 ](assetsgeral/samurai.svg)
+![proj4 ](assetsgeral/trono.png)
+![proj5 ](assetsgeral/samurai.png)
