@@ -27,6 +27,15 @@ export const Content = styled.div`
 
   flex-direction: column;
 
+  a {
+    border: 1px solid #97cadb;
+    padding: 13px;
+    border-radius: 5px;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
   h1 {
     font-size: 80px;
     line-height: 75px;
