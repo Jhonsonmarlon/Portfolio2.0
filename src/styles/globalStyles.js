@@ -9,6 +9,7 @@ export default createGlobalStyle`
         box-sizing: border-box;
         outline: none;
         border: 0;
+        user-select: none
     }
     html, body{
         background: ${(props) => props.theme.background};
