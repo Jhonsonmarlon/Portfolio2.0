@@ -4,7 +4,7 @@ import { Container, Buttons, Logo, NavButton } from "./styles";
 import useWindowDimensions from "../../hooks/useWindowDimensions";
 
 const logoLink =
-  "https://jhonsonmarlon.com.br/assets/imgs/trono.png";
+  "https://github.com/Jhonsonmarlon/Portfolio2.0/raw/main/assetsgeral/trono.png";
 
 const NavigationBar = () => {
   const { height, width } = useWindowDimensions();
