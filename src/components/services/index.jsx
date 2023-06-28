@@ -6,7 +6,7 @@ import { BiCodeBlock } from "react-icons/bi";
 
 const Services = () => {
   return (
-    <Container>
+    <Container style="user-select: none;">
       <h1>Serviços</h1>
       <p>Um poucos do serviços que tenho a oferecer!</p>
       <Content>
