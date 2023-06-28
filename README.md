@@ -53,4 +53,5 @@ Minhas principais habilidades incluem:
 ![proj1 ](assetsgeral/proj22(1).jpg)
 ![proj2 ](assetsgeral/proj11(1).jpg)
 ![proj3 ](assetsgeral/img-works1.svg)
-
+![proj4 ](assetsgeral/trono.svg)
+![proj5 ](assetsgeral/samurai.svg)
