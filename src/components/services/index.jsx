@@ -12,7 +12,7 @@ const Services = () => {
       <Content>
         <Card>
           <RiPenNibFill size={"100px"} />
-          <h2>Analista de Dados</h2>
+          <h2>Data Analyst</h2>
           <p>
             Desenvolvo fórmulas ou alternativas demonstrativas para,
             representação de dados e estatísticas, fazendo avaliação
