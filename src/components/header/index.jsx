@@ -20,10 +20,9 @@ const Header = () => {
           border-radius: 5px;
           color: #ffffff;
           text-decoration: none;
-          font-family: 'Jost', sans-serif;
           font-weight: bold;
           "
-          href="./assets/docs_avulsos/Curriculo Jhonson Marlon.pdf" target="_blank">Download CV</a>
+          href="www.jhonsonmarlon.com.br/portfolio/assets/docs_avulsos/Curriculo_Jhonson_Marlon.pdf" target="_blank">Download CV</a>
       </Content>
     </Container>
   );
