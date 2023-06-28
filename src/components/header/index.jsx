@@ -13,7 +13,7 @@ const Header = () => {
         <span>Bem vindo 👋, Eu sou</span>
         <h1>Jhonson Marlon</h1>
         <span className="up">Analist and Developer</span>
-        <a href="www.jhonsonmarlon.com.br/portfolio/assets/docs_avulsos/Curriculo_Jhonson_Marlon.pdf" target="_blank">Download CV</a>
+        <a href="https://database-ifrr.jhonsonmarlon.com.br/assets/Curriculo_Jhonson_Marlon.pdf" target="_blank">Download CV</a>
       </Content>
     </Container>
   );
