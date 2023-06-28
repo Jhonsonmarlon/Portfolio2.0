@@ -9,7 +9,7 @@ const Header = () => {
     <Container>
       <BackgroundFade />
       <Background src={backgroundLink} />
-      <Content>
+      <Content style="user-select: none;">
         <span>Bem vindo 👋, Eu sou</span>
         <h1>Jhonson Marlon</h1>
         <span className="up">Analist and Developer</span>
