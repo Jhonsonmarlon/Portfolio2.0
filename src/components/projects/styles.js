@@ -41,7 +41,7 @@ export const BackgroundFade = styled.div`
 `;
 
 export const Content = styled.div`
-  width: 100%;
+  width: 120%;
   overflow-y: hidden;
 
   z-index: 11;
@@ -53,7 +53,7 @@ export const Content = styled.div`
   margin-top: 40px;
 
   @media (max-width: 1200px) {
-    flex-wrap: nowrap !important;
+    justify-content: center !important;
     overflow-x: scroll;
   }
 `;
