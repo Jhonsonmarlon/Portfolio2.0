@@ -53,7 +53,7 @@ export const Content = styled.div`
   margin-top: 40px;
 
   @media (max-width: 1200px) {
-    justify-content: start !important;
+    flex-wrap: nowrap !important;
     overflow-x: scroll;
   }
 `;
