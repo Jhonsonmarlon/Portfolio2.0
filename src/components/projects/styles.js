@@ -41,7 +41,7 @@ export const BackgroundFade = styled.div`
 `;
 
 export const Content = styled.div`
-  width: 100%;
+  width: 150%;
   overflow-y: hidden;
 
   z-index: 11;
