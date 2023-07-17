@@ -53,7 +53,7 @@ export const Content = styled.div`
   margin-top: 40px;
 
   @media (max-width: 1200px) {
-    justify-content: initial !important;
+    justify-content: start !important;
     overflow-x: scroll;
   }
 `;

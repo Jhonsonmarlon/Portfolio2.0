@@ -31,8 +31,8 @@ const Services = () => {
           <RiServerFill size={"100px"} />
           <h2 >Backend</h2>
           <p>
-            Desenvolvo toda parte do lado do servidor, com banco de dados e
-            criação de Apis para alimentar a aplicação web.
+            Desenvolvo toda parte do lado do servidor, com banco de dados
+            para alimentar a aplicação web.
           </p>
         </Card>
       </Content>

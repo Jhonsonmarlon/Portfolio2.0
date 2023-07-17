@@ -12,7 +12,8 @@ import {
   DiMaterializecss,
   DiVisualstudio,
   DiGithubFull,
-  DiCss3Full
+  DiCss3Full,
+  DiFlutter
 } from "react-icons/di";
 
 const Skills = () => {
@@ -35,6 +36,7 @@ const Skills = () => {
           <DiFirebase size={"90px"} />
           <DiHtml5 size={"90px"} />
           <DiPostgresql size={"90px"} />
+          <DiFlutter size={"90px"} />
         </SkillList>
       </Content>
     </Container>
