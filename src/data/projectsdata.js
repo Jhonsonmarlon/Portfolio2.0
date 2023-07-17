@@ -35,4 +35,13 @@ export const projects = [
     link: "https://github.com/Jhonsonmarlon/CursoWEBcompleto-natrave",
     subtitle: "HTML, Javascript, CSS",
   },
+  {
+    title: "Reforço Prof. Eliene",
+    description:
+      "Plataforma de reforço escolar ",
+    image:
+      "https://github.com/Jhonsonmarlon/Portfolio2.0/raw/main/assetsgeral/reforço.jpg",
+    link: "https://www.profeliene.com",
+    subtitle: "HTML, Javascript, CSS",
+  },
 ];

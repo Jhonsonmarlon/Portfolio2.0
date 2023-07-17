@@ -31,7 +31,7 @@ const SocialLinks = () => {
   }, [scrollPosition]);
 
   const openLinkedIn = () => {
-    window.open("https://www.linkedin.com/in/jhonson-marlon", "_blank");
+    window.open("https://www.linkedin.com/in/jhonson-marlon-244908152/", "_blank");
   };
 
   const openGitHub = () => {
