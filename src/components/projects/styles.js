@@ -12,7 +12,7 @@ export const Container = styled.div`
 
   flex-direction: column;
 
-  background: url("https://www.tricurioso.com/wp-content/uploads/2018/12/por-que-existem-tantas-linguagens-de-programacao-1.jpg");
+  background: url("https://firebasestorage.googleapis.com/v0/b/jhonsonportfolio.appspot.com/o/imgs_port%2Fbackground.jpg?alt=media&token=1ebdbaf2-3a64-4ccf-900a-f97203414464&_gl=1*1fq2cfm*_ga*MjAxMjA3Nzc0NS4xNjk2MjczNDAz*_ga_CW55HF8NVT*MTY5OTM2NDA1Mi4xOC4xLjE2OTkzNjU4MzguNjAuMC4w");
 
   h1 {
     z-index: 11;
